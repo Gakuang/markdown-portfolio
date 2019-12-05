@@ -1,4 +1,4 @@
-Video Games
-Basketball
-Sleep
-Food
+- Video Games
+- Basketball
+- Sleep
+- Food
